@@ -3,5 +3,4 @@ Portofolio_SQL_Sales
 
 Design Scheme Database Online Sales :
 
-ERD : https://github.com/nopran/Portofolio_SQL_Sales/blob/main/ERD.png
 ![alt text](https://github.com/nopran/Portofolio_SQL_Sales/blob/main/ERD.png)
